@@ -7,7 +7,7 @@ Software environment:
 content:
     1. changelist for integrating CANfestival
       A.TIMER3
-      B.FDCAN
+      B.FDCAN RX,TX 
     
 
 reference: 
